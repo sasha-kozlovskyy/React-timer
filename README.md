@@ -1,6 +1,6 @@
 # React Stopwatch App
 
- [DEMO LINK](https://sasha-kozlovskyy.github.io/react-timer)
+ [DEMO LINK](https://sasha-kozlovskyy.github.io/React-timer)
 
 ## Description
 The application StopWatch was create in ReactJS using the RxJs. Our StopWatch have the functionality of Start, Stop, Wait and Reset.
